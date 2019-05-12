@@ -1,3 +1,4 @@
+import '@babel/polyfill';
 import * as dotenv from 'dotenv';
 // @ts-ignore
 import {default as express} from 'express';
